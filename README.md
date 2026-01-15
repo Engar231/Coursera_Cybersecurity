@@ -1,5 +1,3 @@
-# SQL Filtering Exercises – Coursera
-
 ## Overview
 This repository contains SQL exercises completed as part of a Coursera course focused on database querying and basic security-related analysis.
 I am sharing this repository publicly to:
