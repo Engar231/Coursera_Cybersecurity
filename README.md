@@ -1,27 +1,44 @@
-## Overview
-This repository contains SQL exercises completed as part of a Coursera course focused on database querying and basic security-related analysis.
-I am sharing this repository publicly to:
-* Build my personal learning portfolio
-* Track my progress in SQL and data analysis
-* Demonstrate my ability to understand and explain database queries
----
+This repository contains the exercises and written solutions completed as part of the Google Cybersecurity Professional Certificate training on Coursera. The course emphasizes SQL querying, Linux permissions, vulnerability assessment, and foundational security analysis.
 
-## Course Context
-All exercises in this repository come from a Coursera training course by Google
----
-## What You Will Find in This Repository
-* SQL queries written to solve specific course exercises
-* Written explanations describing:
-  * the goal of each query
-  * the filters used
-  * the reasoning behind each condition
-The emphasis is not only on getting correct results, but also on understanding and communicating the logicbehind each query.
----
-## Purpose of This Repository
-This repository is part of my personal portfolio.
+#Course Context
+All work in this repository comes from structured exercises in a Coursera cybersecurity training program focused on:
+SQL query writing and optimization
+Structured data filtering and logic
+Basic security concepts and practices
+Hands-on tasks in Linux and vulnerability analysis
 
-It documents my learning journey as a student and shows my ability to:
+#What You’ll Find Here
 
-* Work with SQL databases
-* Analyze structured data
-* Apply filtering logic accurately
+The repository includes:
+SQL exercise files: solutions to database queries from the course
+PDF worksheets: security exercises and templates
+Linux and permissions exercises
+Vulnerability assessment report
+Each file demonstrates problem-solving, correct syntax, and reasoning behind query filters or security logic.
+
+#Skills Demonstrated
+This work shows hands-on ability to:
+Query and analyze structured datasets using SQL
+Apply logical filtering and conditions in database tasks
+Understand and explain results with written reasoning
+Perform basic security-related exercises in Linux environments
+
+📁 Structure Overview
+├── Apply filters to SQL queries.pdf
+├── File permissions in Linux.pdf
+├── PASTA worksheet (1).pdf
+├── Parking lot USB exercise.pdf
+├── Vulnerability assessment report.pdf
+├── Activity Template_ Data leak worksheet.pdf
+└── README.md
+
+#Purpose
+This repository is part of a personal learning portfolio to:
+Demonstrate practical cybersecurity exercise completion
+Track learning progress through Coursera training
+Showcase ability to translate theory into practical solutions
+
+#Technologies & Tools
+SQL (Structured Query Language)
+Linux file permissions
+Security worksheet templates
