@@ -23,15 +23,6 @@ Apply logical filtering and conditions in database tasks
 Understand and explain results with written reasoning
 Perform basic security-related exercises in Linux environments
 
-📁 Structure Overview
-├── Apply filters to SQL queries.pdf
-├── File permissions in Linux.pdf
-├── PASTA worksheet (1).pdf
-├── Parking lot USB exercise.pdf
-├── Vulnerability assessment report.pdf
-├── Activity Template_ Data leak worksheet.pdf
-└── README.md
-
 #Purpose
 This repository is part of a personal learning portfolio to:
 Demonstrate practical cybersecurity exercise completion
